@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     '35df5489d1e2e19577a91aa0212a8337' => $baseDir . '/src/App/Config/Routes.php',
+    'ae0f9240a1e08921cb0a4aae252d83ce' => $baseDir . '/src/App/Config/Middleware.php',
 );
