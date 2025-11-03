@@ -1,0 +1,5 @@
+PHPiggy is a PHP-based application designed for tracking expenses. It functions like an online piggy bank where users can register, log in, create and delete transactions, upload transaction files, and view or delete receipts. The application includes a backend framework foundation with routing, MVC architecture, middleware, form validation, sessions, authentication, CRUD operations, and database interaction using MySQL and PDO. PHPiggy also supports features such as CSRF tokens, cookies, relationships modeling, and file uploads. It is often used as an example or project for learning modern PHP development techniques and creating a full-fledged expense-tracking tool.​
+
+Additionally, PHPiggy can be set up in development environments involving virtual hosts and local servers such as XAMPP, with configurations to access the application locally through custom domain names like phpiggy.local.​
+
+In summary, PHPiggy is primarily an expense tracking application built with PHP that serves both as a practical tool and a learning example for PHP developers.
