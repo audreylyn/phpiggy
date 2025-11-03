@@ -8,8 +8,6 @@ use App\Config\Paths;
 
 class AboutController
 {
-
-
     public function __construct(private TemplateEngine $view)
     {
     }
